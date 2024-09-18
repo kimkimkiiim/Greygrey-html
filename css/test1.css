@@ -1,0 +1,33 @@
+body{
+	background: ghostwhite;
+}
+h1{
+	font-size: 35px;
+	color: #FF4500;
+}
+
+h2{
+	font-size: 27px;
+	color: firebrick;
+}
+
+h3{
+	font-size: 20;
+	color: #FFC300;
+}
+.big{
+	font-size: 40px;
+	color: dimgray;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: navy;
+}
+
+h2 span{
+	color: black;
+}
